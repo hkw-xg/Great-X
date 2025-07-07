@@ -3,10 +3,5 @@ Multimodal communication dataset
 
 ![Image](https://github.com/user-attachments/assets/4fa5cb94-fb05-4f06-bc49-610039bbdff4)
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+Video demo demonstration：
+[![Bilibili视频]([https://your-image-link.com](https://www.bilibili.com/video/BV12V32zJEGj/?vd_source=32c24cf4017cf2b79e6f9a4c67463eb5)/bilibili_cover.jpg)](https://www.bilibili.com/video/BV12V32zJEGj/?vd_source=32c24cf4017cf2b79e6f9a4c67463eb5)
